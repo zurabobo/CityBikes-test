@@ -1,0 +1,39 @@
+.station__item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: MuseoSansCyrl;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  color: #939498;
+  list-style: none;
+  margin-bottom: 10px;
+  border-bottom: 1px dashed #414d64;
+}
+
+.station__favorite-btn {
+  min-width: 18px;
+  fill: #939498;
+  font-size: 0;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  transition: opacity .2s ease;
+}
+
+.station__favorite-btn_active {
+ fill: #6a81ad;
+ /* fill: #ff6666; */
+}
+
+.station__favorite-btn:hover {
+  opacity: .7;
+}
+
+@media screen and (max-width: 1023px) {
+
+  .station__item {
+    font-size: 14px;
+  }
+}

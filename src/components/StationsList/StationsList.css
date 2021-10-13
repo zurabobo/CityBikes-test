@@ -1,0 +1,44 @@
+.station {
+  width: 58%;
+}
+
+.station-list__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 50vh;
+  background: #1C1F27;
+  overflow: auto;
+  border: 1px solid #414d64;
+  padding: 14px 20px 0;
+  box-shadow: 0 0 4px #FFF;
+}
+
+.station-list {
+  padding: 0;
+  margin: 0;
+}
+
+@media screen and (max-width: 1023px) {
+
+  .station-list__container {
+    padding: 10px 10px 0;
+    height: 55vh;
+  }
+
+  .station-list {
+    margin: 0px 4px 12px 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .station-list__container {
+    padding: 5px 10px 0 5px;
+    height: 43vh;
+  }
+
+  .station {
+    width: 100%;
+  }
+}
+
