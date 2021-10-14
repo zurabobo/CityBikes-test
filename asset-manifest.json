@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/citybikes-test/static/css/main.ede044dd.chunk.css",
+    "main.js": "/citybikes-test/static/js/main.315044f2.chunk.js",
+    "main.js.map": "/citybikes-test/static/js/main.315044f2.chunk.js.map",
+    "runtime-main.js": "/citybikes-test/static/js/runtime-main.1a286cbf.js",
+    "runtime-main.js.map": "/citybikes-test/static/js/runtime-main.1a286cbf.js.map",
+    "static/js/2.d7596217.chunk.js": "/citybikes-test/static/js/2.d7596217.chunk.js",
+    "static/js/2.d7596217.chunk.js.map": "/citybikes-test/static/js/2.d7596217.chunk.js.map",
+    "index.html": "/citybikes-test/index.html",
+    "static/css/main.ede044dd.chunk.css.map": "/citybikes-test/static/css/main.ede044dd.chunk.css.map",
+    "static/js/2.d7596217.chunk.js.LICENSE.txt": "/citybikes-test/static/js/2.d7596217.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/citybikes-test/static/media/MuseoSansCyrl700.d44c59f0.woff",
+    "static/media/bikes-logo.c28e18a6.svg": "/citybikes-test/static/media/bikes-logo.c28e18a6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a286cbf.js",
+    "static/js/2.d7596217.chunk.js",
+    "static/css/main.ede044dd.chunk.css",
+    "static/js/main.315044f2.chunk.js"
+  ]
+}
