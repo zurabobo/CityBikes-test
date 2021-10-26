@@ -34,7 +34,7 @@
 @media screen and (max-width: 767px) {
   .station-list__container {
     padding: 5px 10px 0 5px;
-    height: 43vh;
+    height: 40vh;
   }
 
   .station {
